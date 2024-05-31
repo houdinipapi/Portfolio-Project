@@ -1,2 +1,1 @@
-# Portfolio-Project
-Creating a portfolio sample project
+# photography starter
