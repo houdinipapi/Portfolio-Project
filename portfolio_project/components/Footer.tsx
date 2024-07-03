@@ -25,7 +25,7 @@ const Footer = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam amet possimus facilis odio error optio nesciunt.
             </p>
 
-            <a href="mailto:olivertim.ot@gmail.com">
+            <a href="mailto:olivertim.ot@gmail.com" title="Contact me">
                 <MagicButton
                     title='Let&apos;s get in touch'
                     icon={<FaLocationArrow />}
